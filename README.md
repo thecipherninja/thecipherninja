@@ -110,4 +110,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
  Last Updated on 05/08/2023 08:32:09 UTC
 <!--END_SECTION:waka-->
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
+
 <p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM3Z2s5dmFzYWs3dnZ1ZGUxMWRhbmwwMnduMTdoZWg2aHFibDZydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif" alt="thecipherninja" width="1024" height="72" /> </p>
