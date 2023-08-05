@@ -8,7 +8,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecipherninja&label=Profile%20views&color=0e75b6&style=flat" alt="thecipherninja" /> </p>
 
-- 🌱 I’m currently learning **React, Python, Algorithms**
+- 🌱 I’m currently learning **React, Javascript, Python, Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://thecipherninja.github.io/my_portfolio_1/](https://thecipherninja.github.io/my_portfolio_1/)
 
