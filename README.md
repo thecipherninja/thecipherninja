@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlwZTV5dmNmMGRza3BweGtiaXR6NXR6aG9vazRvdzV1dHk3bG5maCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" alt="thecipherninja" width="1024" height="72" /> </p>
+
 ### Hi there 👋, my name is Shimei Sagar Das
 
 I'm an aspiring Web Developer fueled by a deep passion for web technologies. With a strong sense of discipline, I'm committed to seeing projects through to completion, while my creative mindset and perfectionist nature ensure that every detail is meticulously crafted.
@@ -31,3 +33,4 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecipherninja&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
+<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM3Z2s5dmFzYWs3dnZ1ZGUxMWRhbmwwMnduMTdoZWg2aHFibDZydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif" alt="thecipherninja" width="1024" height="72" /> </p>
