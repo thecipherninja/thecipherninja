@@ -33,4 +33,8 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecipherninja&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM3Z2s5dmFzYWs3dnZ1ZGUxMWRhbmwwMnduMTdoZWg2aHFibDZydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif" alt="thecipherninja" width="1024" height="72" /> </p>
