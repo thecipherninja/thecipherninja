@@ -24,18 +24,18 @@ jobs:
           SECTION_NAME: waka
           BLOCKS: ->
           CODE_LANG: all_time 
-          TIME_RANGE: true
-          LANG_COUNT: 10
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          # TIME_RANGE: true
+          # LANG_COUNT: 10
+          # SHOW_TIME: true
+          # SHOW_TOTAL: true
+          # SHOW_MASKED_TIME: false
+          # STOP_AT_OTHER: true
           SHOW_DAYS_OF_WEEK: true
           SHOW_LANGUAGE: true
-          HOW_PROJECTS: true
-          HOW_OS: true
-          HOW_TIMEZONE: true
-          HOW_EDITORS: true
+          SHOW_PROJECTS: true
+          SHOW_OS: true
+          SHOW_TIMEZONE: true
+          SHOW_EDITORS: true
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
