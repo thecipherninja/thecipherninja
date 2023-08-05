@@ -35,6 +35,79 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 39.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 85 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 18 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+🌆 Daytime                53 commits          ████████░░░░░░░░░░░░░░░░░   31.93 % 
+🌃 Evening                62 commits          █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌙 Night                  28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   49 commits          ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Wednesday                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Thursday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Saturday                 35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Sunday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     12 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/08/2023 08:28:28 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM3Z2s5dmFzYWs3dnZ1ZGUxMWRhbmwwMnduMTdoZWg2aHFibDZydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif" alt="thecipherninja" width="1024" height="72" /> </p>
