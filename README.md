@@ -35,15 +35,15 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 39.4 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2023
+> 🏆 87 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +54,21 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-🌆 Daytime                54 commits          ████████░░░░░░░░░░░░░░░░░   32.34 % 
-🌃 Evening                62 commits          █████████░░░░░░░░░░░░░░░░   37.13 % 
-🌙 Night                  28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+🌞 Morning                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+🌆 Daytime                55 commits          ████████░░░░░░░░░░░░░░░░░   32.74 % 
+🌃 Evening                62 commits          █████████░░░░░░░░░░░░░░░░   36.90 % 
+🌙 Night                  28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   49 commits          ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Wednesday                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Thursday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Saturday                 36 commits          █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Sunday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Monday                   49 commits          ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Wednesday                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Thursday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Saturday                 37 commits          ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Sunday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 ```
 
 
@@ -78,16 +78,17 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 mins              ████████████████████████░   96.30 % 
+INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+web-crawler-1            6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -107,7 +108,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2023 08:32:09 UTC
+ Last Updated on 06/08/2023 00:27:09 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
