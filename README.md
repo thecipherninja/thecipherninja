@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,24 +78,24 @@ Sunday                   30 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   19 hrs 23 mins      ████████████░░░░░░░░░░░░░   48.36 % 
-JavaScript               15 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   39.15 % 
-CSS                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Markdown                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-JSON                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Python                   18 hrs 14 mins      ██████████████░░░░░░░░░░░   57.22 % 
+JavaScript               8 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+CSS                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Markdown                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  40 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  31 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Billowing Glade 61       28 hrs 1 min        █████████████████░░░░░░░░   69.89 % 
-Fragrant Violet 32       5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Spring Cake 97           3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Wispy Sky 35             2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Damp Surf 16             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Billowing Glade 61       20 hrs 6 mins       ████████████████░░░░░░░░░   63.09 % 
+Fragrant Violet 32       5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Spring Cake 97           3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Wispy Sky 35             2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Damp Surf 16             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 💻 Operating System: 
-Windows                  40 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  31 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -115,7 +115,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2023 00:24:52 UTC
+ Last Updated on 01/09/2023 00:27:13 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
