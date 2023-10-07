@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,20 +78,19 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     46 hrs 7 mins       █████████████████████░░░░   83.76 % 
-Python                   6 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-JSON                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Text                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+YAML                     54 hrs 31 mins      █████████████████████░░░░   83.23 % 
+Python                   8 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+JSON                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  55 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  65 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Rapid Darkness 18        55 hrs 4 mins       █████████████████████████   100.00 % 
+Rapid Darkness 18        65 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  55 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  65 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -111,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2023 00:25:38 UTC
+ Last Updated on 07/10/2023 00:25:05 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
