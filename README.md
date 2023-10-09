@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,19 +78,19 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     56 hrs 21 mins      ████████████████████░░░░░   80.25 % 
-Python                   11 hrs 48 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-JSON                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+YAML                     51 hrs 20 mins      ████████████████████░░░░░   78.18 % 
+Python                   12 hrs 54 mins      █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+JSON                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  70 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  65 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Rapid Darkness 18        70 hrs 14 mins      █████████████████████████   100.00 % 
+Rapid Darkness 18        65 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  70 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  65 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -110,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2023 00:28:05 UTC
+ Last Updated on 09/10/2023 00:26:26 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
