@@ -78,18 +78,18 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     20 hrs 35 mins      ██████████████████░░░░░░░   72.47 % 
-Python                   7 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+YAML                     16 hrs 7 mins       █████████████████░░░░░░░░   67.76 % 
+Python                   7 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.89 % 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Rapid Darkness 18        28 hrs 25 mins      █████████████████████████   100.00 % 
+Rapid Darkness 18        23 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +109,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2023 00:23:54 UTC
+ Last Updated on 13/10/2023 00:26:39 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
