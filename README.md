@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,18 +78,18 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     16 hrs 7 mins       █████████████████░░░░░░░░   67.76 % 
-Python                   7 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.89 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+YAML                     10 hrs 8 mins       ████████████████░░░░░░░░░   63.69 % 
+Python                   5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.04 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Rapid Darkness 18        23 hrs 47 mins      █████████████████████████   100.00 % 
+Rapid Darkness 18        15 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +109,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2023 00:26:39 UTC
+ Last Updated on 14/10/2023 00:24:39 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
