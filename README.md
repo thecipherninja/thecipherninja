@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,18 +78,19 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     10 hrs 8 mins       ████████████████░░░░░░░░░   63.69 % 
-Python                   5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.04 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+YAML                     9 hrs 10 mins       ████████████████░░░░░░░░░   62.16 % 
+Python                   4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Rapid Darkness 18        15 hrs 55 mins      █████████████████████████   100.00 % 
+Rapid Darkness 18        14 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2023 00:24:39 UTC
+ Last Updated on 15/10/2023 00:28:19 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
