@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,22 +78,22 @@ Sunday                   42 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     9 hrs 8 mins        ███████████████████░░░░░░   77.94 % 
-Python                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+YAML                     11 hrs 15 mins      ██████████████████░░░░░░░   72.64 % 
+Python                   3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Rapid Darkness 18        10 hrs 33 mins      ███████████████████████░░   90.09 % 
-Damp Surf 16             54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Wispy Sky 35             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Rapid Darkness 18        13 hrs 41 mins      ██████████████████████░░░   88.29 % 
+Damp Surf 16             54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Spring Cake 97           39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Wispy Sky 35             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Windows                  11 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -113,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2023 00:24:59 UTC
+ Last Updated on 27/10/2023 00:25:02 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
