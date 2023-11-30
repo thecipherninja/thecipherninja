@@ -35,13 +35,13 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 45.6 kB Used in GitHub's Storage 
+> 📦 45.7 kB Used in GitHub's Storage 
  > 
 > 🏆 92 Contributions in the Year 2023
  > 
@@ -78,23 +78,23 @@ Sunday                   44 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     9 hrs 49 mins       ██████████████████░░░░░░░   70.56 % 
-Python                   3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+YAML                     6 hrs 57 mins       ████████████████░░░░░░░░░   63.45 % 
+Python                   3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.96 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Good Customer 40         11 hrs 18 mins      ████████████████████░░░░░   81.22 % 
-Charming Lake 90         2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Charming Cafe 78         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Ancient Bush 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Good Customer 40         8 hrs 20 mins       ███████████████████░░░░░░   76.13 % 
+Charming Lake 90         2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Charming Cafe 78         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Ancient Bush 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  13 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -114,7 +114,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2023 00:27:44 UTC
+ Last Updated on 30/11/2023 00:27:54 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
