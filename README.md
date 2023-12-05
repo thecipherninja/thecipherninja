@@ -41,7 +41,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 
 **🐱 My GitHub Data** 
 
-> 📦 46.2 kB Used in GitHub's Storage 
+> 📦 46.7 kB Used in GitHub's Storage 
  > 
 > 🏆 92 Contributions in the Year 2023
  > 
@@ -78,23 +78,22 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 hrs 47 mins       █████████████░░░░░░░░░░░░   53.62 % 
-YAML                     5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.09 % 
-CSV                      2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Python                   10 hrs 15 mins      ██████████████░░░░░░░░░░░   54.94 % 
+YAML                     5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+CSV                      2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Charming Lake 90         12 hrs 35 mins      █████████████████░░░░░░░░   68.86 % 
-Good Customer 40         5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
-Charming Cafe 78         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Charming Lake 90         13 hrs 10 mins      ██████████████████░░░░░░░   70.51 % 
+Good Customer 40         5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
 Ancient Bush 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  18 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -114,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2023 00:28:29 UTC
+ Last Updated on 05/12/2023 00:28:16 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
