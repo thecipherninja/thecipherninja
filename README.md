@@ -78,20 +78,20 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 22 mins       ██████████████░░░░░░░░░░░   55.13 % 
-YAML                     4 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-CSV                      2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   6 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.66 % 
+YAML                     3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+CSV                      2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Charming Lake 90         11 hrs 7 mins       ██████████████████░░░░░░░   73.28 % 
-Good Customer 40         4 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+Charming Lake 90         8 hrs 37 mins       █████████████████░░░░░░░░   69.23 % 
+Good Customer 40         3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
 
 💻 Operating System: 
-Windows                  15 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -111,7 +111,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2023 00:27:58 UTC
+ Last Updated on 09/12/2023 00:27:13 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
