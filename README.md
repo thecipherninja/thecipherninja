@@ -78,20 +78,19 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.66 % 
-YAML                     3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
-CSV                      2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   27 mins             █████████████░░░░░░░░░░░░   53.40 % 
+YAML                     16 mins             ████████░░░░░░░░░░░░░░░░░   32.40 % 
+CSV                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Charming Lake 90         8 hrs 37 mins       █████████████████░░░░░░░░   69.23 % 
-Good Customer 40         3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Charming Lake 90         35 mins             █████████████████░░░░░░░░   67.60 % 
+Good Customer 40         16 mins             ████████░░░░░░░░░░░░░░░░░   32.40 % 
 
 💻 Operating System: 
-Windows                  12 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -111,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2023 00:27:13 UTC
+ Last Updated on 10/12/2023 00:30:36 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
