@@ -78,19 +78,19 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   14 hrs 58 mins      ███████████████░░░░░░░░░░   58.73 % 
-CSV                      10 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   41.24 % 
+Python                   15 hrs 1 min        ███████████████░░░░░░░░░░   58.05 % 
+CSV                      10 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   41.00 % 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Quiet Thunder 51         25 hrs 30 mins      █████████████████████████   100.00 % 
+Quiet Thunder 51         25 hrs 52 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -110,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2024 00:28:40 UTC
+ Last Updated on 10/01/2024 00:28:45 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
