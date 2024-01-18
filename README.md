@@ -78,18 +78,21 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 29 mins       ███████████████████████░░   91.13 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+CSS                      1 hr 5 mins         ███████████░░░░░░░░░░░░░░   44.11 % 
+HTML                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+JavaScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Text                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Quiet Thunder 51         3 hrs 49 mins       █████████████████████████   100.00 % 
+js-compiler              2 hrs 26 mins       █████████████████████████   98.79 % 
+Green Dust 69            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +112,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2024 00:28:41 UTC
+ Last Updated on 18/01/2024 00:28:07 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
