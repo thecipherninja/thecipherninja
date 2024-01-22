@@ -35,9 +35,9 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,24 +78,24 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               9 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.17 % 
-Python                   6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-CSS                      5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-HTML                     3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JavaScript               9 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
+Python                   6 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+CSS                      5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+HTML                     3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-js-compiler              19 hrs 2 mins       ██████████████████░░░░░░░   73.49 % 
-Lingering Hat 1          5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Orange Mouse 11          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+js-compiler              19 hrs 2 mins       ██████████████████░░░░░░░   73.25 % 
+Lingering Hat 1          6 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Orange Mouse 11          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 Quiet Thunder 51         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 Spring Cake 97           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  25 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -115,7 +115,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2024 00:31:14 UTC
+ Last Updated on 22/01/2024 00:30:02 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
