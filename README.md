@@ -43,11 +43,11 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 
 > 📦 47.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 2 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 24 Private Repositories 
  > 
@@ -101,11 +101,11 @@ Windows                  15 hrs 9 mins       ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     13 repos            █████████░░░░░░░░░░░░░░░░   37.14 % 
-Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+HTML                     13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
+Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -115,7 +115,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2024 00:26:56 UTC
+ Last Updated on 30/01/2024 00:26:43 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
