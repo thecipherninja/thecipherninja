@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,17 +78,20 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 44 mins        ████████████████████░░░░░   79.09 % 
-HTML                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Python                   10 hrs 3 mins       ███████████████████████░░   91.11 % 
+HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+PowerShell               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Summer Cake 37           2 hrs 11 mins       █████████████████████████   100.00 % 
+Summer Cake 37           11 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -108,7 +111,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2024 00:26:19 UTC
+ Last Updated on 18/02/2024 00:28:54 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
