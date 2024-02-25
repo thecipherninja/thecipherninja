@@ -78,20 +78,19 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   25 hrs 42 mins      ████████████████████████░   94.81 % 
-Text                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-PowerShell               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Python                   17 hrs 23 mins      ████████████████████████░   95.17 % 
+Text                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  18 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Summer Cake 37           27 hrs 6 mins       █████████████████████████   100.00 % 
+Summer Cake 37           18 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -111,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2024 00:25:12 UTC
+ Last Updated on 25/02/2024 00:29:13 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
