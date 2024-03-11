@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,13 +43,13 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 
 > 📦 47.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
+> 🏆 3 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 24 Private Repositories 
+> 🔑 25 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -78,20 +78,20 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 25 mins       ████████████████░░░░░░░░░   62.04 % 
-Text                     1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-JSON                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   6 hrs 13 mins       ████████████████░░░░░░░░░   62.94 % 
+HTML                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Text                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Red Direction 12         5 hrs 31 mins       █████████████████████████   100.00 % 
+Red Direction 12         9 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -111,7 +111,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2024 00:29:22 UTC
+ Last Updated on 11/03/2024 00:28:14 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
