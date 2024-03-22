@@ -78,20 +78,16 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.00 % 
-Python                   1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Bash                     1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 26 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Red Direction 12         4 hrs 26 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -111,7 +107,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2024 00:28:09 UTC
+ Last Updated on 22/03/2024 00:26:42 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
