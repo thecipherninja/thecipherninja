@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,18 +78,18 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 54 mins       ████████████████████░░░░░   79.50 % 
-CSV                      1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Python                   6 hrs 3 mins        ████████████████████░░░░░   80.30 % 
+CSV                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Charming Lake 90         6 hrs 10 mins       █████████████████████████   100.00 % 
+Charming Lake 90         7 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +109,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2024 00:28:28 UTC
+ Last Updated on 26/03/2024 00:26:50 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
