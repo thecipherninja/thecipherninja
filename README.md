@@ -35,15 +35,13 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 47.3 kB Used in GitHub's Storage 
- > 
-> 🏆 31 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +52,21 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-🌆 Daytime                104 commits         █████████░░░░░░░░░░░░░░░░   35.02 % 
-🌃 Evening                105 commits         █████████░░░░░░░░░░░░░░░░   35.35 % 
-🌙 Night                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+🌞 Morning                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+🌆 Daytime                103 commits         █████████░░░░░░░░░░░░░░░░   34.80 % 
+🌃 Evening                105 commits         █████████░░░░░░░░░░░░░░░░   35.47 % 
+🌙 Night                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   72 commits          ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Tuesday                  44 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Thursday                 29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Sunday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Monday                   72 commits          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Tuesday                  43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Wednesday                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Thursday                 29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Sunday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 ```
 
 
@@ -112,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2024 00:27:10 UTC
+ Last Updated on 29/03/2024 00:27:12 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
