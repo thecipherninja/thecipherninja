@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,24 +76,24 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 hrs 17 mins       ███████████████████████░░   92.70 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python                   14 hrs 17 mins      ███████████████████████░░   93.60 % 
+Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  15 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Falling Wind 48          5 hrs 14 mins       █████████████░░░░░░░░░░░░   52.25 % 
-Wispy Base 47            4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.77 % 
-Summer Cake 37           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Quiet Thunder 51         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Shrill Bath 2            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Falling Wind 48          9 hrs 53 mins       ████████████████░░░░░░░░░   64.81 % 
+Wispy Base 47            4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Quiet Thunder 51         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Summer Cake 37           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Shrill Bath 2            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  10 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  15 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2024 00:27:14 UTC
+ Last Updated on 21/04/2024 00:30:34 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
