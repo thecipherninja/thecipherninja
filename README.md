@@ -78,18 +78,16 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 47 mins        █████████████████████████   98.55 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Delicate Brook 97        1 hr 48 mins        █████████████████████████   99.59 % 
-Shy Glitter 53           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +107,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2024 00:30:34 UTC
+ Last Updated on 02/05/2024 00:27:57 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
