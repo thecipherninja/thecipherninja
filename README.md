@@ -35,15 +35,13 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 47.4 kB Used in GitHub's Storage 
- > 
-> 🏆 36 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +52,21 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-🌆 Daytime                114 commits         █████████░░░░░░░░░░░░░░░░   37.01 % 
-🌃 Evening                106 commits         █████████░░░░░░░░░░░░░░░░   34.42 % 
-🌙 Night                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+🌞 Morning                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+🌆 Daytime                115 commits         █████████░░░░░░░░░░░░░░░░   37.22 % 
+🌃 Evening                106 commits         █████████░░░░░░░░░░░░░░░░   34.30 % 
+🌙 Night                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   73 commits          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Tuesday                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Wednesday                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Thursday                 29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Sunday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Monday                   73 commits          ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Tuesday                  54 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Wednesday                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Thursday                 29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Sunday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 ```
 
 
@@ -78,17 +76,17 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     57 mins             ████████████████████████░   95.39 % 
-Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Text                     2 hrs 12 mins       ████████████████████████░   97.92 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Delicate Stream 23       1 hr                █████████████████████████   100.00 % 
+Delicate Stream 23       2 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +106,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 00:32:41 UTC
+ Last Updated on 24/06/2024 00:31:54 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
