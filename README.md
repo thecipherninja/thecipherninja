@@ -78,20 +78,20 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-YAML                     2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Docker                   2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Text                     2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Nginx configuration file 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+JavaScript               4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
+YAML                     2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Docker                   2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Nginx configuration file 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Text                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Delicate Stream 23       15 hrs 5 mins       █████████████████████████   100.00 % 
+Delicate Stream 23       14 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 00:33:55 UTC
+ Last Updated on 01/07/2024 00:35:19 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
