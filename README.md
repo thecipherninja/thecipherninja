@@ -35,15 +35,13 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 47.4 kB Used in GitHub's Storage 
- > 
-> 🏆 36 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,20 +76,20 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               21 hrs 44 mins      ████████████████████████░   94.27 % 
-HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Text                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JavaScript               19 hrs 24 mins      ███████████████████████░░   92.94 % 
+HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  20 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Delicate Stream 23       23 hrs 3 mins       █████████████████████████   100.00 % 
+Delicate Stream 23       20 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +109,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2024 00:30:53 UTC
+ Last Updated on 21/07/2024 00:34:26 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
