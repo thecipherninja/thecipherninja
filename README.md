@@ -35,7 +35,7 @@ Join me on this exciting journey as I continue to grow and explore the endless p
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thecipherninja)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,20 +78,20 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     7 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.86 % 
-Text                     5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.59 % 
-Docker                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Bash                     8 hrs 30 mins       ████████████░░░░░░░░░░░░░   48.40 % 
+Text                     5 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
+YAML                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Docker                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Delicate Stream 23       16 hrs 2 mins       █████████████████████████   100.00 % 
+Delicate Stream 23       17 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thecipherninja/thecipherninja/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2024 00:35:16 UTC
+ Last Updated on 02/08/2024 00:31:11 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jaxqq6ej25fksaoq746nhm7dxq&redirect=true)
